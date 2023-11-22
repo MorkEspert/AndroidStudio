@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Obrovac</string>
+    <string name="dobro_do_li">Dobro došli!</string>
+    <string name="izra_unaj">Izračunaj</string>
+    <string name="unesi_naboj">Unesi naboj</string>
+    <string name="unesi_potencijalnu_razliku">Unesi potencijalnu razliku</string>
+    <string name="elektrostatska_potencijalna_energija">Elektrostatska potencijalna energija</string>
+    <string name="unesi_frekvenciju">Unesi frekvenciju</string>
+    <string name="unesi_valnu_duljinu">Unesi valnu duljinu</string>
+    <string name="brzina_svjetla">Brzina svjetla</string>
+    <string name="nazad_u_izbornik">Nazad u izbornik</string>
+
+</resources>
